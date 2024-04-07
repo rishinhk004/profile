@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishinhk004&label=Profile%20views&color=0e75b6&style=flat" alt="rishinhk004" /> </p>
 <p align="left"> <a href="https://twitter.com/rishirajsaha17" target="blank"><img src="https://img.shields.io/twitter/follow/rishirajsaha17?logo=twitter&style=for-the-badge" alt="rishirajsaha17" /></a> </p>
 
-- 🔭 I’m currently working on **NitsHacks 6.0 Website**
+- 🔭 I’m currently working on **Oikyotaan 2024 Website**
 
 - 🌱 I’m currently learning **Express,Node.js**
 
